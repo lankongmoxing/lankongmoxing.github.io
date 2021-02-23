@@ -1,4 +1,5 @@
+* [简介](/)
 
-* [Home](/)
+* [vite](/vite/)
 
 * [Guide](/guide/)
