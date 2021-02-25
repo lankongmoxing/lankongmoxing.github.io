@@ -1,0 +1,23 @@
+{
+  "name": "lankongmoxing.github.io",
+  "version": "1.0.0",
+  "description": "本文档使用 docsify 框架搭建，并上传到github\r <https://docsify.js.org>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lankongmoxing/lankongmoxing.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lankongmoxing/lankongmoxing.github.io/issues"
+  },
+  "homepage": "https://github.com/lankongmoxing/lankongmoxing.github.io#readme"
+}
