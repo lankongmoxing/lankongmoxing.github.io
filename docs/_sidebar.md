@@ -1,11 +1,13 @@
-* [简介](/)
+### 常见功能
+
+* [icon](/icon/)
+
+* [富文本编辑器tinymce](/tinymce/)
+
+### 技术选型
 
 * [vite](/vite/)
 
-* [Guide](/guide/)
+### 关于本文档
 
 * [markdown](/markdown/)
-
-* [微信小程序](/wechat/)
-
-* [CSS](/css/)
